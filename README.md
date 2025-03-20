@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am andrewp, I am learning.
+
 <!--
 **andrewphankt/andrewphankt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
